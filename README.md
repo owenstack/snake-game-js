@@ -24,7 +24,7 @@ To play the Snake Game, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/Jefob1/snake-game.git
+   git clone https://github.com/Jefob1/snake-game-js.git
    ```
 
 2. Open the project folder and navigate to the main game file.
